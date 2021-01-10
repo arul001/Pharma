@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Amazon" parallel="none">
+
+	
+	<test name="Pharma Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.pharmaspectra.qa.testcase.TC_LoginTest_001" />
+		</classes>
+	</test>
+
+<!-- 	<test name="Pharma Test1"> -->
+<!-- 	<parameter name="browser" value="firefox" /> -->
+<!-- 	<classes> -->
+<!-- 	<class name="com.pharmaspectra.qa.testcase.TC_LoginTest_001" /> -->
+<!-- 	</classes> -->
+<!-- 	</test> -->
+
+<!-- 	<test name="Pharma Test2"> -->
+<!-- 	<parameter name="browser" value="chrome" /> -->
+<!-- 	<classes> -->
+<!-- 	<class name="com.pharmaspectra.qa.testcase.TC_LoginTest_001" /> -->
+<!-- 	</classes> -->
+<!-- 	</test> -->
+
+</suite>
