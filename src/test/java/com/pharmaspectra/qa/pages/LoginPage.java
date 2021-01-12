@@ -37,4 +37,4 @@ public class LoginPage {
 		btnLogin.click();
 	}
 
-}
+	}

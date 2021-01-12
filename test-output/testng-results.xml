@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Amazon" duration-ms="213555" started-at="2021-01-10T10:09:11Z" finished-at="2021-01-10T10:12:44Z">
+  <suite name="AmazonRun" duration-ms="293084" started-at="2021-01-12T07:47:33Z" finished-at="2021-01-12T07:52:26Z">
     <groups>
     </groups>
-    <test name="Pharma Test" duration-ms="213555" started-at="2021-01-10T10:09:11Z" finished-at="2021-01-10T10:12:44Z">
+    <test name="Pharma Test" duration-ms="293084" started-at="2021-01-12T07:47:33Z" finished-at="2021-01-12T07:52:26Z">
       <class name="com.pharmaspectra.qa.testcase.TC_LoginTest_001">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.pharmaspectra.qa.testcase.TC_LoginTest_001@7b49cea0]" name="setup" is-config="true" duration-ms="31135" started-at="2021-01-10T10:09:11Z" finished-at="2021-01-10T10:09:42Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.pharmaspectra.qa.testcase.TC_LoginTest_001@6e0e048a]" name="setup" is-config="true" duration-ms="47464" started-at="2021-01-12T07:47:33Z" finished-at="2021-01-12T07:48:20Z">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.pharmaspectra.qa.testcase.TC_LoginTest_001@7b49cea0]" name="loginTest" duration-ms="179885" started-at="2021-01-10T10:09:42Z" finished-at="2021-01-10T10:12:42Z">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.pharmaspectra.qa.testcase.TC_LoginTest_001@6e0e048a]" name="loginTest" duration-ms="242978" started-at="2021-01-12T07:48:20Z" finished-at="2021-01-12T07:52:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pharmaspectra.qa.testcase.TC_LoginTest_001@7b49cea0]" name="tearDown" is-config="true" duration-ms="2348" started-at="2021-01-10T10:12:42Z" finished-at="2021-01-10T10:12:44Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pharmaspectra.qa.testcase.TC_LoginTest_001@6e0e048a]" name="tearDown" is-config="true" duration-ms="2384" started-at="2021-01-12T07:52:23Z" finished-at="2021-01-12T07:52:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.pharmaspectra.qa.testcase.TC_LoginTest_001 -->
     </test> <!-- Pharma Test -->
-  </suite> <!-- Amazon -->
+  </suite> <!-- AmazonRun -->
 </testng-results>

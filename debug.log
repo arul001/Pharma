@@ -10,3 +10,5 @@
 [0110/151240.774:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
 [0110/152530.406:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
 [0110/153032.595:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0111/104346.868:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0111/105724.609:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
